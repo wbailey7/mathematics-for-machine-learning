@@ -16,6 +16,6 @@ Course 2: Multivariate Calculus - Completed 04/09/2022<br/>
 [Certificate](multivariate-calculus/certificate04092022.pdf)<br/>
 [Certificate Verification](https://coursera.org/share/964aebf54aee2808ab9c8620494d31e6)
 
-Course 3: Principal Component Analysis - Completed 04/09/2022<br/>
+Course 3: Principal Component Analysis - Completed 04/13/2022<br/>
 [Certificate](principal-components/certificate04132022.pdf)<br/>
 [Certificate Verification](https://coursera.org/share/df1e06f7afbbf0b7abc7f197faeba7d8)
